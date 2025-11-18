@@ -1,3 +1,5 @@
 001 write
 
 修改ip / port 
+
+fix release-0.1.0 bug success
