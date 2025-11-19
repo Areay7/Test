@@ -10,3 +10,11 @@ save
 temp
 
 
+
+good 
+
+good
+
+bad
+
+bad
