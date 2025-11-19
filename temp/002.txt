@@ -14,7 +14,3 @@ temp
 good 
 
 good
-
-bad
-
-bad
